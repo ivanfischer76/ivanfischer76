@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ivanfischer76
 - 👀 I’m interested in programming and robotics
 - 🌱 I’m currently learning about web and mobile programming, artificial intelligence and linux environments, as well as creating robots with android
-// - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... You can contact me through my email ivanfischer76@gmail.com
+- 💞️ I currently have knowledge of NodeJs, Ionic with Angular, PWA, Javascript, Typescript, Laravel and more, as can be seen in this public repository that contains examples of what I can do.
+- 📫 You can contact me through my email ivanfischer76@gmail.com
 
 
 <!---
